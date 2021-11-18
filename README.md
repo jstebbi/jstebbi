@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jstebbi
 - 👀 I’m interested in CFD, FDS, Linux cluster
-- 🌱 I’m currently learning FDS
+- 🌱 I’m currently learning FDS and Blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
